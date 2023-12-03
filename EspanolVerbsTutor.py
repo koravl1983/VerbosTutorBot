@@ -6,7 +6,8 @@ from ConjugateRegular import conjugate_regular
 
 # Список глаголов и местоимений
 regular_verbs = ["hablar", "comer", "vivir", "escribir", "cantar", "correr"]
-irregular_verbs = ["ser", "estar", "tener", "ir", "hacer", "ver", "saber", "decir", "venir", "salir", "poner", "leer"]
+irregular_verbs = ["ser", "estar", "tener", "ir", "hacer", "ver", "saber", "venir", "salir", "poner", "leer",
+                   "decir", "decir", "poder", "traer", "dar", "haber", "pasar", "pedir", "sentir"]
 pronouns = ["yo", "vos", "él/ella", "nosotros", "ellos/ustedes"]
 pronouns_imperativo = ["vos", "usted", "ustedes"]
 tenses = ["Presente Simple", "Preterito Imperfecto", "Perfecto Simple", "Imperativo"] # , "Futuro Simple"

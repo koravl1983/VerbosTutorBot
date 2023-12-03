@@ -8,11 +8,6 @@ import os
 import json
 from Lesson import Lesson
 
-#TODO:пересоздать репозиторий, чтобы в нем не было токенов телеграмма, сделать этот репозиторий опенсорсным
-#TODO:зайти в свой домашний линукс. Видимо комп подвис, нужно просить папу перезагрузить
-#TODO:понять как запускать бота на сервере в фоновом режиме
-
-
 def get_lesson(context: ContextTypes.DEFAULT_TYPE) -> Lesson:
 	try:
 		return context.user_data['lesson']

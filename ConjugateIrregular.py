@@ -207,34 +207,6 @@ def conjugate_irregular(verb, pronoun, tense):
 				"ustedes": "sepan"
 			}
 		},
-		"decir": {
-			"Presente Simple": {
-				"yo": "digo",
-				"vos": "dices",
-				"él/ella": "dice",
-				"nosotros": "decimos",
-				"ellos/ustedes": "dicen"
-			},
-			"Preterito Imperfecto": {
-				"yo": "decía",
-				"vos": "decís",
-				"él/ella": "decía",
-				"nosotros": "decíamos",
-				"ellos/ustedes": "decían"
-			},
-			"Perfecto Simple": {
-				"yo": "dije",
-				"vos": "dijiste",
-				"él/ella": "dijo",
-				"nosotros": "dijimos",
-				"ellos/ustedes": "dijeron"
-			},
-			"Imperativo": {
-				"vos": "di",
-				"usted": "diga",
-				"ustedes": "digan"
-			}
-		},
 		"venir": {
 			"Presente Simple": {
 				"yo": "vengo",
@@ -345,6 +317,225 @@ def conjugate_irregular(verb, pronoun, tense):
 				"vos": "lee",
 				"usted": "lea",
 				"ustedes": "lean"
+			}
+		},
+		"decir": {
+			"Presente Simple": {
+				"yo": "digo",
+				"vos": "dices",
+				"él/ella": "dice",
+				"nosotros": "decimos",
+				"ellos/ustedes": "dicen"
+			},
+			"Preterito Imperfecto": {
+				"yo": "decía",
+				"vos": "decís",
+				"él/ella": "decía",
+				"nosotros": "decíamos",
+				"ellos/ustedes": "decían"
+			},
+			"Perfecto Simple": {
+				"yo": "dije",
+				"vos": "dijiste",
+				"él/ella": "dijo",
+				"nosotros": "dijimos",
+				"ellos/ustedes": "dijeron"
+			},
+			"Imperativo": {
+				"vos": "di",
+				"usted": "diga",
+				"ustedes": "digan"
+			}
+		},
+		"poder": {
+			"Presente Simple": {
+				"yo": "puedo",
+				"vos": "podés",
+				"él/ella": "puede",
+				"nosotros": "podemos",
+				"ellos/ustedes": "pueden"
+			},
+			"Preterito Imperfecto": {
+				"yo": "podía",
+				"vos": "podías",
+				"él/ella": "podía",
+				"nosotros": "podíamos",
+				"ellos/ustedes": "podían"
+			},
+			"Perfecto Simple": {
+				"yo": "pude",
+				"vos": "pudiste",
+				"él/ella": "pudo",
+				"nosotros": "pudimos",
+				"ellos/ustedes": "pudieron"
+			},
+			"Imperativo": {
+				"vos": "podé",
+				"usted": "pueda",
+				"ustedes": "puedan"
+			}
+		},
+		"traer": {
+			"Presente Simple": {
+				"yo": "traigo",
+				"vos": "traés",
+				"él/ella": "trae",
+				"nosotros": "traemos",
+				"ellos/ustedes": "traen"
+			},
+			"Preterito Imperfecto": {
+				"yo": "traía",
+				"vos": "traías",
+				"él/ella": "traía",
+				"nosotros": "traíamos",
+				"ellos/ustedes": "traían"
+			},
+			"Perfecto Simple": {
+				"yo": "traje",
+				"vos": "trajiste",
+				"él/ella": "trajo",
+				"nosotros": "trajimos",
+				"ellos/ustedes": "trajeron"
+			},
+			"Imperativo": {
+				"vos": "traé",
+				"usted": "traiga",
+				"ustedes": "traigan"
+			}
+		},
+		"dar": {
+			"Presente Simple": {
+				"yo": "doy",
+				"vos": "dás",
+				"él/ella": "da",
+				"nosotros": "damos",
+				"ellos/ustedes": "dan"
+			},
+			"Preterito Imperfecto": {
+				"yo": "daba",
+				"vos": "dabas",
+				"él/ella": "daba",
+				"nosotros": "dábamos",
+				"ellos/ustedes": "daban"
+			},
+			"Perfecto Simple": {
+				"yo": "di",
+				"vos": "diste",
+				"él/ella": "dio",
+				"nosotros": "dimos",
+				"ellos/ustedes": "dieron"
+			},
+			"Imperativo": {
+				"vos": "dá",
+				"usted": "dé",
+				"ustedes": "den"
+			}
+		},
+		"haber": {
+			"Presente Simple": {
+				"yo": "he",
+				"vos": "has",
+				"él/ella": "ha",
+				"nosotros": "hemos",
+				"ellos/ustedes": "han"
+			},
+			"Preterito Imperfecto": {
+				"yo": "había",
+				"vos": "habías",
+				"él/ella": "había",
+				"nosotros": "habíamos",
+				"ellos/ustedes": "habían"
+			},
+			"Perfecto Simple": {
+				"yo": "hube",
+				"vos": "hubiste",
+				"él/ella": "hubo",
+				"nosotros": "hubimos",
+				"ellos/ustedes": "hubieron"
+			}
+		},
+		"pasar": {
+			"Presente Simple": {
+				"yo": "paso",
+				"vos": "pasás",
+				"él/ella": "pasa",
+				"nosotros": "pasamos",
+				"ellos/ustedes": "pasan"
+			},
+			"Preterito Imperfecto": {
+				"yo": "pasaba",
+				"vos": "pasabas",
+				"él/ella": "pasaba",
+				"nosotros": "pasábamos",
+				"ellos/ustedes": "pasaban"
+			},
+			"Perfecto Simple": {
+				"yo": "pasé",
+				"vos": "pasaste",
+				"él/ella": "pasó",
+				"nosotros": "pasamos",
+				"ellos/ustedes": "pasaron"
+			},
+			"Imperativo": {
+				"vos": "pasá",
+				"usted": "pase",
+				"ustedes": "pasen"
+			}
+		},
+		"pedir": {
+			"Presente Simple": {
+				"yo": "pido",
+				"vos": "pedís",
+				"él/ella": "pide",
+				"nosotros": "pedimos",
+				"ellos/ustedes": "piden"
+			},
+			"Preterito Imperfecto": {
+				"yo": "pedía",
+				"vos": "pedías",
+				"él/ella": "pedía",
+				"nosotros": "pedíamos",
+				"ellos/ustedes": "pedían"
+			},
+			"Perfecto Simple": {
+				"yo": "pedí",
+				"vos": "pediste",
+				"él/ella": "pidió",
+				"nosotros": "pedimos",
+				"ellos/ustedes": "pidieron"
+			},
+			"Imperativo": {
+				"vos": "pedí",
+				"usted": "pida",
+				"ustedes": "pidan"
+			}
+		},
+		"sentir": {
+			"Presente Simple": {
+				"yo": "siento",
+				"vos": "sentís",
+				"él/ella": "siente",
+				"nosotros": "sentimos",
+				"ellos/ustedes": "sienten"
+			},
+			"Preterito Imperfecto": {
+				"yo": "sentía",
+				"vos": "sentías",
+				"él/ella": "sentía",
+				"nosotros": "sentíamos",
+				"ellos/ustedes": "sentían"
+			},
+			"Perfecto Simple": {
+				"yo": "sentí",
+				"vos": "sentiste",
+				"él/ella": "sintió",
+				"nosotros": "sentimos",
+				"ellos/ustedes": "sintieron"
+			},
+			"Imperativo": {
+				"vos": "sentí",
+				"usted": "sienta",
+				"ustedes": "sientan"
 			}
 		}
 	}
